@@ -95,7 +95,7 @@ public final class InputUtil
 	
 	/*
 	 * 사용자한테 안내 메시지를 출력하고 boolean 을 받는 메소드
-	 * 대소문자를 구분하지 않는다.
+	 * 대소문자를 구분하지 않는다. 
 	 */
 	public static boolean readBool(String prompt,String y, String n)
 	{
