@@ -74,7 +74,7 @@ public final class InputUtil
 	
 	/*
 	 * 사용자한테 안내 메시지를 출력하고 숫자를 제한된 범위 내에서 입력받는 메소드
-	 */
+	 */ 
 	public static int readInt(String prompt,int min, int max)
 	{
 		while(true)
