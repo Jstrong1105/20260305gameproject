@@ -20,7 +20,7 @@ public final class InputUtil
 	
 	/*
 	 * 사용자한테 안내 메시지를 출력하고 문자를 입력받는 메소드 
-	 * 탈출 코드를 입력하면 프로그램을 강제 종료한다.
+	 * 탈출 코드를 입력하면 프로그램을 강제 종료 한다.
 	 */
 	public static String readString(String prompt) 
 	{
