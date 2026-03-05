@@ -3,6 +3,6 @@
 .settings/
 .build/
 .WebContent/
-.classpath/
-.project/
+.classpath
+.project
 
